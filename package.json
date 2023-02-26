@@ -1,0 +1,12 @@
+{
+  "name": "anytext-extension-tree-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "anytext",
+    "tree",
+    "builder"
+  ],
+  "author": "Lxc"
+}
